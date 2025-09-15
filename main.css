@@ -40,6 +40,9 @@ body {
 }
 
 .ralph:hover {
+    height: 53px;
+    font-family: "Press Start 2P", cursive;
+    font-size: 100%;
     color: #ec38bc;
     background-image: url(./jogo-detona-ralf/src/images/ralph.png);
     background-size: contain;  
@@ -62,5 +65,8 @@ body {
 
 .memoria:hover {
     color: #ec38bc;
-    background-color: #262809;
+    background-image: url(./jogo-da-memória/src/images/icon-memory.png);
+    background-size: contain;  
+    background-repeat: no-repeat;
+    background-position: right;
 }
