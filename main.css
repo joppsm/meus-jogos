@@ -41,7 +41,10 @@ body {
 
 .ralph:hover {
     color: #ec38bc;
-    background-color: #262809;
+    background-image: url(./jogo-detona-ralf/src/images/ralph.png);
+    background-size: contain;  
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .memoria {
